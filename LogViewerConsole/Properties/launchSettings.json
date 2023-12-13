@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LogViewerConsole": {
+      "commandName": "Project",
+      "commandLineArgs": " "
+    }
+  }
+}
